@@ -1,5 +1,16 @@
+/* Definir Variables cuando se vayan a utilizar en varias instrucciones*/
+h1 {
+  color: #89DB1A;
+}
+
 body {
-  background: #402CDA;
+  background: white;
+  font-family: Arial, Sans-serif;
+  font-size: 16px;
+}
+
+li {
+  color: blue;
 }
 
 /*# sourceMappingURL=main.css.map */
